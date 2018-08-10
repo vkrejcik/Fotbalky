@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fotbalky</string>
+    <string name="add_new_player_button">Add new player</string>
+    <string name="add_player">Add player</string>
+    <string name="add_player_edit_text_hint">Enter player\'s name</string>
+    <string name="no_records">No records</string>
+</resources>
